@@ -54,7 +54,7 @@ Choice genMove(in int rock, in int paper, in int scissors) @safe /*@nogc*/
 //
 // Should handle errors with an exception
 // 
-To maybeTo(To, From)(From x) pure nothrow @safe
+Nullable!To maybeTo(To, From)(From x) pure nothrow @safe
 {
     try
     {
