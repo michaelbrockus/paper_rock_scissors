@@ -5,6 +5,7 @@
 //
 module program;
 import game;
+import std.string;
 import std.stdio;
 
 
@@ -29,7 +30,7 @@ void foundation()
         } // end if
  
         immutable player = weapon.maybeTo!Choice;
-        if (h.isNull)
+        if (player.isNull)
         {
             writeln("Wrong input: ", weapon);
             continue;
@@ -53,9 +54,9 @@ void foundation()
  
         final switch (player.get)
         {
-            case Choice.rock:     r++; break;
-            case Choice.paper:    p++; break;
-            case Choice.scissors: s++; break;
+            case Choice.rock:     rock++; break;
+            case Choice.paper:    paper++; break;
+            case Choice.scissors: scissors++; break;
         } // end switch
 
     } // end while
