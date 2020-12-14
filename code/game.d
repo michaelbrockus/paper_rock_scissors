@@ -52,9 +52,9 @@ Choice genMove(in int rock, in int paper, in int scissors) @safe /*@nogc*/
 } // end of function genMove
 
 //
-//
+// Should handle errors with an exception
 // 
-Nullable!To maybeTo(To, From)(From x) pure nothrow @safe
+To maybeTo(To, From)(From x) pure nothrow @safe
 {
     try
     {
