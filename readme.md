@@ -19,7 +19,7 @@ Bassicly the it's a simultaneous, zero-sum game, it has only two possible outcom
 
 * * *
 
-Targeted audience we are building for is MacOSX and Linux users. This project uses
+Targeted audience we are building for is Windows 10, MacOSX and Linux users. This project uses
 [Meson](https://mesonbuild.com/) `0.56.0` and newer.
 
 ## Setup, Compile and Install
@@ -56,8 +56,9 @@ paper-rock-scissors
 
 * * *
 
-You can contact me with either of these methods.
+You may find that I have a number of ways that you can contact
+me. All of these methods happen to be listed on my blogging platform
+[Mike's virtual office](https://michaelbrockus.home.blog/contact/).
 
--   linkedin: [michael-brockus](https://www.linkedin.com/in/michael-brockus-1009a1174/)
--   reddit: [MichaelBrockus](https://www.reddit.com/user/MichaelBrockus)
--   gmail: [michaelbrockus@gmail.com](mailto:michaelbrockus@gmail.com).
+Lastly don't forget to have a cup of virtual coffee. Thanks.
+
