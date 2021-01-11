@@ -15,6 +15,12 @@ being held upright in the air.
 
 Bassicly the it's a simultaneous, zero-sum game, it has only two possible outcomes.
 
+## Program Preview
+
+* * *
+
+Please add an image for the user to see.
+
 ## Tooling information
 
 * * *
