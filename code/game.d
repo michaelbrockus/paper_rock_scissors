@@ -71,3 +71,7 @@ Nullable!To maybeTo(To, From)(From x) pure nothrow @safe
     } // end catch
 
 } // end of function maybeTo
+
+// impl stuns for random message feature 
+void showPlayerMessage() {}
+void showRobotMessage() {}
