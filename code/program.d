@@ -19,10 +19,13 @@ void foundation()
     int rock = 1;
     int paper = 1;
     int scissors = 1;
- 
+
+    writeln("=============================================");
+    writeln("| Welcome to a game of paper rock scissors! |");
+    writeln("============================================="); 
     while (true)
     {
-        write("rock, paper or scissors? ");
+        write("Type rock, paper or scissors? ");
         immutable weapon = readln.strip.toLower;
         if (weapon.empty)
         {
@@ -54,8 +57,8 @@ void foundation()
  
         final switch (player.get)
         {
-            case Choice.rock:     rock++; break;
-            case Choice.paper:    paper++; break;
+            case Choice.rock:     rock++;     break;
+            case Choice.paper:    paper++;    break;
             case Choice.scissors: scissors++; break;
         } // end switch
 
