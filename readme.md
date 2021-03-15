@@ -19,7 +19,7 @@ Bassicly the it's a simultaneous, zero-sum game, it has only two possible outcom
 
 * * *
 
-Please add an image for the user to see.
+![Command-Line App](.github/screenshots/preview.png)
 
 ## Tooling information
 
