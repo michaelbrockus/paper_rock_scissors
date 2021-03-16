@@ -26,7 +26,7 @@ Bassicly the it's a simultaneous, zero-sum game, it has only two possible outcom
 * * *
 
 Targeted audience we are building for is Windows 10, MacOSX and Linux users. This project uses
-[Meson](https://mesonbuild.com/) `0.56.0` and newer.
+[Meson](https://mesonbuild.com/) `0.57.1` and newer.
 
 ## Setup, Compile and Install
 
